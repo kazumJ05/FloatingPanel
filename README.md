@@ -6,7 +6,7 @@
 
 # FloatingPanel
 
-# add content for git add and commit
+# Add Comment for gitHub
 
 FloatingPanel is a simple and easy-to-use UI component designed for a user interface featured in Apple Maps, Shortcuts and Stocks app.
 The user interface displays related content and utilities alongside the main content.
@@ -21,7 +21,7 @@ Please see also [the API reference](https://floatingpanel.github.io/2.6.2/docume
 <!-- TOC -->
 
 - [FloatingPanel](#floatingpanel)
-- [add content for git add and commit](#add-content-for-git-add-and-commit)
+- [Add Comment for gitHub](#add-comment-for-github)
   - [Features](#features)
   - [Requirements](#requirements)
   - [Installation](#installation)
